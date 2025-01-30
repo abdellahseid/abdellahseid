@@ -1,5 +1,5 @@
 
-### 👋 Hi, I'm Abdelah Seid Mohammed!  
+### 👋 Hi, I'm Abdelah Seid!  
 
 I'm a **Junior MERN Stack Developer** based in Ethiopia. Passionate about building scalable web applications, I specialize in **React.js, Node.js, Express.js, and MongoDB**.  
 
