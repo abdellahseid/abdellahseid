@@ -15,5 +15,6 @@ I'm a **Junior MERN Stack Developer** based in Ethiopia. Passionate about buildi
 - **Other:** Linux, Git/GitHub  
 
 📫 **Let's Connect!**  
+Email: abdellahseid0987@gmail.com
 Feel free to check out my repositories and collaborate!  
 
