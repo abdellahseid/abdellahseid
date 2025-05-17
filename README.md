@@ -9,7 +9,7 @@ I'm a **Junior MERN Stack Developer** based in Ethiopia. Passionate about buildi
 - Contribute to open-source projects and continuously learn new technologies  
 
 🔧 **Tech Stack:**  
-- **Frontend:** HTML, CSS, Javascript, Jquery, Bootstrap and React.js
+- **Frontend:** HTML, CSS, Javascript, Jquery, Bootstrap, Tailwind and React.js
 - **Backend:** Node.js, Express.js  
 - **Database:** MySql  
 - **Other:** Linux, Git/GitHub  
