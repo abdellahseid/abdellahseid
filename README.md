@@ -5,7 +5,7 @@ I'm a **Junior MERN Stack Developer** based in Ethiopia. Passionate about buildi
 
 🚀 **What I Do:**  
 - Develop dynamic and responsive **MERN stack applications**  
-- Customize and sell **ThemeForest templates** for startups  
+- Customize and sell **templates** for startups  
 - Contribute to open-source projects and continuously learn new technologies   
 
 📫 **Let's Connect!**  
