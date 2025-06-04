@@ -6,13 +6,7 @@ I'm a **Junior MERN Stack Developer** based in Ethiopia. Passionate about buildi
 🚀 **What I Do:**  
 - Develop dynamic and responsive **MERN stack applications**  
 - Customize and sell **ThemeForest templates** for startups  
-- Contribute to open-source projects and continuously learn new technologies  
-
-🔧 **Tech Stack:**  
-- **Frontend:** HTML, CSS, Javascript, Jquery, Bootstrap, Tailwind and React.js
-- **Backend:** Node.js, Express.js  
-- **Database:** MySql  
-- **Other:** Linux, Git/GitHub  
+- Contribute to open-source projects and continuously learn new technologies   
 
 📫 **Let's Connect!**  
 Feel free to check out my repositories and collaborate!  
