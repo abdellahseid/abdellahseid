@@ -1,10 +1,10 @@
 
 ### 👋 Hi, I'm Abdellah Seid!  
 
-I'm a **Junior MERN Stack Developer** based in Ethiopia. Passionate about building scalable web applications, I specialize in **React.js, Node.js, Express.js, and MongoDB**.  
+I'm a **Front-end Developer** based in Addis Ababa, Ethiopia. Passionate about building scalable web applications, I specialize in **React.js, Tailwind CSS and Bootstrap CSS**.  
 
 🚀 **What I Do:**  
-- Develop dynamic and responsive **MERN stack applications**  
+- Develop dynamic and responsive **Front-end applications**  
 - Customize and sell **templates** for startups  
 - Contribute to open-source projects and continuously learn new technologies   
 
