@@ -1,5 +1,5 @@
 
-### 👋 Hi, I'm Abdellah Seid!  
+### 👋 Hi, I'm Abdellah!  
 
 I'm a **Front-end Developer** based in Addis Ababa, Ethiopia. Passionate about building scalable web applications, I specialize in **React JS, Tailwind CSS and Bootstrap CSS**.  
 
