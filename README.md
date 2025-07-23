@@ -11,4 +11,3 @@ I'm a **Front-end Developer** based in Addis Ababa, Ethiopia. Passionate about b
 Feel free to check out my repositories and collaborate!  
 
 Email: abdellahseid0987@gmail.com  
-Phone: [ +251 987123834](tel:+251987123834)
