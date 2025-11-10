@@ -4,7 +4,7 @@ I'm a **Front-end Developer** based in Addis Ababa, Ethiopia. Passionate about b
 
 **What I Do:**  
 - Develop custom dynamic and responsive **websites and Full-stack applications**  
-- Customize and provide **templates** for startups  
+- Customize and provide templates for startups  
 - Contribute to open-source projects and continuously learn new technologies   
 
 📫 **Let's Connect!**  
