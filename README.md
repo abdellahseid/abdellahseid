@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Abdellah!  
 
-I'm a **Front-end Developer** based in Addis Ababa, Ethiopia. Passionate about building scalable web applications, I specialize in **React JS, Tailwind CSS and Bootstrap CSS**.  
+I'm a **Front-end Developer** based in Addis Ababa, Ethiopia. Passionate about building scalable web applications, I specialize in **React JS, Tailwind CSS, Typescript and Bootstrap CSS**.  
 
 **What I Do:**  
 - Develop custom dynamic and responsive **websites and Full-stack applications**  
