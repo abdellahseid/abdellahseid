@@ -1,6 +1,11 @@
-### 👋 Hi, I'm Abdellah!
+### Hi, I'm Abdellah 👋
 
-I'm a **Full-Stack Developer** based in Addis Ababa, Ethiopia. I'm passionate about building **scalable, responsive, and user-focused web applications**. I specialize in **React, Next.js, Tailwind CSS, TypeScript, Node.js, Express.js, PostgreSQL, and Bootstrap**.
+**Full-Stack Developer** based in Addis Ababa, Ethiopia.  
+I build scalable, responsive, and user-focused web applications with clean architecture and thoughtful UI.
 
-**Let's Connect!**
- [abdellahseid0987@gmail.com](mailto:abdellahseid0987@gmail.com)
+#### Core Stack
+`React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Node.js` · `Express.js` · `PostgreSQL` · `Bootstrap`
+
+---
+
+📫 **Reach out:** [abdellahseid0987@gmail.com](mailto:abdellahseid0987@gmail.com)
