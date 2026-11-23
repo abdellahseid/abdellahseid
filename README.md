@@ -3,7 +3,7 @@
 **Full-Stack Developer** based in Addis Ababa, Ethiopia.  
 I build scalable, responsive, and user-focused web and mobile applications with clean architecture and thoughtful UI.
 
-#### Core Stack
+#### Core Stack:-
 **Frontend:** `React` · `Next.js` · `TypeScript` · `Tailwind CSS` · `Bootstrap`
 
 **Mobile:** `Flutter` · `Dart`
